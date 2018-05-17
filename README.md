@@ -1,1 +1,14 @@
-# demographr.github.io
+DemographR
+================
+
+First time visitors
+-------------------
+
+Welcome to the DemographR organization! This is an area for those interested in demography and open source software development to browse and contribute to various projects. The main focuses are on developing the *COMPADRE Matrix Projection Model Data Base*, the *PADRINO Integral Projection Model Data Base*, and associated tools for interacting with them. We mainly work with *R*, but we are happy to advise and assist others who want to create bindings to other languages.
+
+Contributors
+------------
+
+We are working on creating a set of on boarding materials. These include templates to streamline migrating repositories here and configuring the website to host package documentation. There is still much to do so please feel free to head over to the [Projects](https://github.com/orgs/demographr/projects) and see what piques your interest.
+
+More to come soon...
